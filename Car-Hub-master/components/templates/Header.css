@@ -1,0 +1,6 @@
+.logedin svg{
+    @apply text-2xl  text-black
+}
+.logedin{
+    @apply flex gap-5 items-center
+}
